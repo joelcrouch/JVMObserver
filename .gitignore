@@ -10,6 +10,7 @@
  *.jar
  *.war
  *.ear
+ !gradle-wrapper.jar
 
  # Logs
  *.log
@@ -19,6 +20,9 @@
  *.iml
  *.iws
  out/
+ *.ipr
+ !.idea/vcs.xml
+ !.idea/runConfigurations/
 
  # VS Code
  .vscode/
