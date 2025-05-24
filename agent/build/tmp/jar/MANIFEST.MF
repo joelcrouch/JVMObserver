@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: jvmobservability.Agent
+Implementation-Title: JVM Observability Agent
+Implementation-Version: 1.0-SNAPSHOT
+
